@@ -1,5 +1,5 @@
 # AQUABOT-MD
-This project is still being tested
+This AQUA WHATSAPP BOT is Fully Secured and all your data is end-to-end Encrypted
 <p align="center"> <a href="github.com/sanuwaofficial"><img align="center" src="https://telegra.ph/file/85fe740b2385a55178500.jpg"/></a>
  <p align="center">
 <a href="https://github.com/sanuwaofficial/AQUABOT-MD"><img title="Followers" src="https://img.shields.io/github/followers/sanuwaofficial?e=flat-square"></a>
