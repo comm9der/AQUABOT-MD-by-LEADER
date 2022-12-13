@@ -13,11 +13,11 @@ This project is still being tested
 <p align='center'>
     </p>
     
-  ### ඔබට පහසුවෙන් QR කේතය Repl.it මඟින් ලබා ගත හැක.. පහල බටනය CLICK කරන්න
+  ### You can easily get the QR code from Repl.it.. CLICK the button below
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@MagmaGaming/AQUABOT-MDV2?v=1)
 
-## QR කේතය ලබා ගත් පසු Bot deploy කිරීමට පහල බටනය CLICK කරන්න..
+## After receiving the QR Session code, CLICK the button below to deploy the Bot.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https%3A%2F%2Fgithub.com%2Fsanuwaofficial%2FAQUABOT-MD)
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/yP_YCd?referralCode=VN3jQs)
