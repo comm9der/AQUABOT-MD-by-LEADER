@@ -1,4 +1,4 @@
-# AQUABOT-MD
+# AQUABOT-MD by LEADER
 This AQUA WHATSAPP BOT is Fully Secured and all your data is end-to-end Encrypted
 <p align="center"> <a href="github.com/sanuwaofficial"><img align="center" src="https://telegra.ph/file/85fe740b2385a55178500.jpg"/></a>
  <p align="center">
